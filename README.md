@@ -14,8 +14,7 @@ The system recommends the songs based on genre similarity and audio's metadata.
 * `data/` - processed folder contains stored data after data processing. To run processing.py put .csv files from dataset to data/raw/.
 * `notebook/` - Data analysis (checking null values etc.)
 
-```markdown
-## 🚀 Run
+## Run
 
 Create `.streamlit/secrets.toml` file and add your credentials:
 
@@ -24,5 +23,4 @@ Create `.streamlit/secrets.toml` file and add your credentials:
 `client_secret = "YOUR_SPOTIFY_CLIENT_SECRET"`
 
 Then run the app with:
-```bash
-streamlit run src/app.py
+`streamlit run src/app.py`
