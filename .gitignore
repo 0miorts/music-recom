@@ -1,0 +1,24 @@
+# Virtual environment
+.venv/
+
+# IDE
+.idea/
+
+# Python cache
+__pycache__/
+*.pyc
+.cache/
+
+# Streamlit secrets
+.streamlit/secrets.toml
+.streamlit/*.toml
+
+# Raw data
+data/raw/*.csv
+
+# Jupyter
+.ipynb_checkpoints/
+
+# System
+.DS_Store
+Thumbs.db
