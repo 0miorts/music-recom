@@ -1,6 +1,6 @@
 # Music Recommendation System
 
-This repository contains the implementation of music recommendation system using the dataset from [Kaggle](https://www.kaggle.com/datasets/yamaerenay/spotify-dataset-19212020-600k-tracks).
+This repository contains the implementation of music recommendation system using a dataset from [Kaggle](https://www.kaggle.com/datasets/yamaerenay/spotify-dataset-19212020-600k-tracks).
 The system recommends the songs based on genre similarity and audio's metadata.
 
 ## Build with
